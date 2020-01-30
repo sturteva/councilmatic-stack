@@ -6,8 +6,8 @@ The goal of this project is to get the imago project, scraper-us-municipal proje
 ## Requirements
 
 1. Install docker an docker-compose if you do not have them installed
-2. Clone this scrapers project into the the folder `scrapers` in this project: https://github.com/feydan/scrapers-us-municipal.
-3. Clone this sacramento-councilmatic project into the folder `sacramento-councilmatic` into this project: https://github.com/code4sac/sacramento-councilmatic
+2. Clone this scrapers project into the the folder `scrapers` in this project: https://github.com/feydan/scrapers-us-municipal. Stay in the main branch
+3. Clone this sacramento-councilmatic project into the folder `sacramento-councilmatic` into this project: https://github.com/code4sac/sacramento-councilmatic . As of January 2020: Ensure that this is in the councilmatic-stack branch.
 
 ## Initializing
 
